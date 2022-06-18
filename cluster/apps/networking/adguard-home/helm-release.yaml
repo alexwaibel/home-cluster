@@ -19,7 +19,7 @@ spec:
   values:
     image:
       repository: adguard/adguardhome
-      tag: v0.107.3
+      tag: v0.107.7
     service:
       dns-tcp:
         enabled: false
