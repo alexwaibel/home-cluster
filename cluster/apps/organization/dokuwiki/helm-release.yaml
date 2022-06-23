@@ -10,7 +10,7 @@ spec:
     spec:
       # renovate: registryUrl=https://charts.bitnami.com/bitnami
       chart: dokuwiki
-      version: 12.2.2
+      version: 12.5.5
       sourceRef:
         kind: HelmRepository
         name: bitnami-charts
