@@ -19,7 +19,7 @@ spec:
   values:
     image:
       repository: homeassistant/home-assistant
-      tag: 2022.2.6
+      tag: 2022.6.7
     env:
       HASS_URL: "https://hass.${SECRET_DOMAIN}"
       ROBOROCK_ADDR: 192.168.3.164
